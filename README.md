@@ -10,8 +10,8 @@
 - ⚡ Fun fact: Coffee <3
 
 <p>
-  <a href="https://twitter.com/psychronicles">
-    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @psychronicles on Twitter" title="Follow @psychronicles on Twitter">
+  <a href="https://twitter.com/sunnyvootla">
+    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @sunnyvootla on Twitter" title="Follow @sunnyvootla on Twitter">
 
   </a>
 
