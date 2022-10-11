@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Cloud Infrastructure and Data Engineering
-- 👯 I’m looking to collaborate on Cloud
+- 🔭 I’m currently working on Amazon Web Services
+- 🌱 I’m currently learning Microservices, Kubernetes and Data Engineering
+- 👯 I’m looking to collaborate on Cloud Projects
 - 🤔 I’m looking for help with Big Data and Distributed Systems
-- 💬 Ask me about Information Security & Network concepts
+- 💬 Ask me about Data Engineering & Network Structures
 - 📫 How to reach me: vootla.s@northeastern.edu
 - ⚡ Fun fact: Coffee <3
 
